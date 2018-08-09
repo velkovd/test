@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dimitarvelkov
+ *
+ */
+module Algorithms {
+}
